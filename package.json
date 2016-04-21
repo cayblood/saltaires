@@ -1,0 +1,13 @@
+{
+  "name": "saltaires",
+  "version": "1.0.0",
+  "description": "Web site for the Saltaires Chorus",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Carl Youngblood",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}
