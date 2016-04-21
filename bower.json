@@ -1,0 +1,25 @@
+{
+  "name": "saltaires",
+  "description": "Web site for the Saltaires Chorus",
+  "main": "index.html",
+  "authors": [
+    "Carl Youngblood"
+  ],
+  "license": "MIT",
+  "homepage": "https://saltaires.org",
+  "moduleType": [
+    "es6"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
