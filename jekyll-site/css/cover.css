@@ -71,7 +71,7 @@ body {
  */
 .masthead-brand {
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 40px;
 }
 
 .masthead-nav > li {
@@ -134,32 +134,7 @@ body {
   color: rgba(255,255,255,.5);
 }
 
-
-/*
- * Affix and center
- */
-
-@media (min-width: 768px) {
-  /* Pull out the header and footer */
-  .masthead {
-    position: fixed;
-    top: 0;
-  }
-  .mastfoot {
-    position: fixed;
-    bottom: 0;
-  }
-  /* Start the vertical centering */
-  .site-wrapper-inner {
-    vertical-align: middle;
-  }
-  /* Handle the widths */
-  .masthead,
-  .mastfoot,
-  .cover-container {
-    width: 100%; /* Must be percentage or pixels for horizontal alignment */
-  }
-}
+img { max-width: 100%; }
 
 @media (min-width: 1024px) {
   .masthead,
@@ -174,4 +149,13 @@ body {
   margin-right: 30px;
   text-align: left;
   color: #ccc;
+}
+
+.mastfoot span {
+  vertical-align: middle;
+  padding-left: 15px;
+}
+
+.social-links {
+  font-size: 150%;
 }
