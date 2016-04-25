@@ -23,13 +23,13 @@ markdown: kramdown
 navigation:
 - text: About
   url: /about/
-- text: News
-  url: /news/
-- text: Calendar
-  url: /calendar/
+# - text: News
+#   url: /news/
+# - text: Calendar
+#   url: /calendar/
 - text: Join
   url: /join/
-- text: Support
-  url: /support/
-- text: Contact
-  url: /contact/
+# - text: Support
+#   url: /support/
+# - text: Contact
+#   url: /contact/
