@@ -30,6 +30,14 @@
   .fullscreen-bg__video {
     display: none;
   }
+  .inner {
+    width: auto;
+  }
+  .lead {
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
 
 /*
@@ -55,5 +63,10 @@
   .mastfoot,
   .cover-container {
     width: 100%; /* Must be percentage or pixels for horizontal alignment */
+  }
+  .lead {
+    width: 650px;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
