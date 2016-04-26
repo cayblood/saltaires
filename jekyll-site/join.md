@@ -10,7 +10,7 @@ We are always on the lookout for talented, committed vocalists.
 
 #### Auditions
 
-Auditions for the Saltaires are held seasonally. Our next auditions will be held in May for the 2016 season.
+Auditions for the Saltaires are held seasonally. All singers must participate. Our next auditions will be held in May for the 2016 season.
 
 * May 11th and 18th, 7:00pm - 9:30pm
 * 1397 W 9950 S, South Jordan, UT 84095
