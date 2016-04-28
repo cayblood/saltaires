@@ -41,7 +41,7 @@ Each season's calendar will include opportunities to perform and compete in vari
 
 #### Fees
 
-BHS Membership: $120 annually. $10 enrollment fee for new members. Special rates available for youth (25 and under) and seniors (70+ AND 10 years society membership)
+BHS Membership (society, district, and chapter dues): $177 annually. $10 enrollment fee for new members. Special rates available for youth (25 and under) and seniors (70+ AND 10 years society membership)
 
 Uniform:
 
