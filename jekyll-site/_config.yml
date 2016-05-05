@@ -25,8 +25,8 @@ navigation:
   url: /about/
 # - text: News
 #   url: /news/
-# - text: Calendar
-#   url: /calendar/
+- text: Calendar
+  url: /calendar/
 - text: Join
   url: /join/
 # - text: Support
