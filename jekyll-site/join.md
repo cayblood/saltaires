@@ -10,6 +10,8 @@ We are always on the lookout for talented, committed vocalists.
 
 #### Auditions
 
+<a href="http://www.signupgenius.com/go/30E084FA5AA2CA2FD0-saltaires" class="btn btn-primary">Sign up for an audition</a>
+
 Auditions for the Saltaires are held seasonally. All singers must participate. Our next auditions will be held in May for the 2016 season.
 
 * May 11th and 18th, 7:00pm - 9:30pm
