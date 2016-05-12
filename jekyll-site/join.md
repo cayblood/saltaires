@@ -18,8 +18,9 @@ Auditions for the Saltaires are held seasonally. All singers must participate. O
 * 1397 W 9950 S, South Jordan, UT 84095
 * Sign up for auditions [here](http://www.signupgenius.com/go/30E084FA5AA2CA2FD0-saltaires).
 
-At contests, the Saltaires are judged in 3 categories: Singing (tone quality/vocal skill), Music (musical expression), and Performance (visual expression). Saltaires auditions seek to address all three categories. As such, singers should should prepare a vocal solo in any style (a cappella, 16 bars) and expect to do the following at the audition:
+At contests, the Saltaires are judged in 3 categories: Singing (tone quality/vocal skill), Music (musical expression), and Performance (visual expression). Saltaires auditions seek to address all three categories. Singers should expect to do the following at the audition:
 
+* Sing a vocal solo of your choice in any style (a cappella, 16 bars)
 * Scales & other vocalises
 * Sight reading
 * Learn a “tag” with a quartet
