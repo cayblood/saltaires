@@ -23,6 +23,8 @@ markdown: kramdown
 navigation:
 - text: About
   url: /about/
+- text: Members
+  url: http://saltaires.groupanizer.com
 # - text: News
 #   url: /news/
 - text: Calendar
