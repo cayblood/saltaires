@@ -8,3 +8,16 @@ li {
   text-align: left;
   color: #ccc;
 }
+
+img[alt="SLC Zoo, Arts & Parks program"] {
+  margin-top: 25px;
+  max-width: 200px;
+  float: left;
+}
+
+img[alt="Utah Arts Council"] {
+  margin-top: 15px;
+  margin-left: 25px;
+  max-width: 120px;
+  float: left;
+}
