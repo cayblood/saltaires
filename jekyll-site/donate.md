@@ -55,6 +55,7 @@ var handler = StripeCheckout.configure({
     function success(data) {
       window.location.replace("/thanks");
     }
+    $('body').prepend('<div class="loading">Loading&#8230;</div>');
     $.ajax({
       contentType: 'application/json',
       data:        JSON.stringify(payload),
