@@ -8,6 +8,9 @@ li {
   text-align: left;
   color: #ccc;
 }
+li ul li {
+  margin-left: -10px;
+}
 
 img[alt="SLC Zoo, Arts & Parks program"] {
   margin-top: 25px;
