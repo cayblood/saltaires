@@ -24,8 +24,8 @@ navigation:
   url: /about/
 - text: Members
   url: http://saltaires.groupanizer.com
-# - text: News
-#   url: /news/
+- text: Events
+  url: /events/
 - text: Calendar
   url: /calendar/
 - text: Join
