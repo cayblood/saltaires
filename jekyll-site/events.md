@@ -6,7 +6,7 @@ permalink: /events/
 
 ## October 26, 2016
 
-**Saltaires Guest Night**: Come experience what's it's like to sing with the premiere barbershop chorus in the state of Utah! Whether you're a long time veteran of barbershop or have never even heard of it, join us for a night of spectacular harmony. Participants should come prepared to sing three songs. [Contact us](mailto:contact@saltaires.org) for access to the music. This is an event not to be missed!
+**Saltaires Guest Night**: Come experience what's it's like to sing with the premiere barbershop chorus in the state of Utah! Whether you're a long time veteran of barbershop or have never even heard of it, join us for a night of spectacular harmony. Participants should come prepared to sing three songs. [Contact us](mailto:contact@saltaires.org) for access to the music. This is an event not to be missed! 6-10pm at the South Jordan Legacy Retirement Residence, 1617 W Temple Ln, South Jordan, Utah 84095.
 
 ## September 24, 2016
 
