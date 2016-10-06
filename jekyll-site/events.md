@@ -6,7 +6,7 @@ permalink: /events/
 
 ## October 26, 2016
 
-**Saltaires Guest Night**: come enjoy an evening of incredible singing with the Saltaires! This event is not to be missed. We expect to have 50-100 quality singers, all prepared to sing two barbershop songs and a few tags. Stay tuned for more details.
+**Saltaires Guest Night**: Come experience what's it's like to sing with the premiere barbershop chorus in the state of Utah! Whether you're a long time veteran of barbershop or have never even heard of it, join us for a night of spectacular harmony. Participants should come prepared to sing three songs. [Contact us](mailto:contact@saltaires.org) for access to the music. This is an event not to be missed!
 
 ## September 24, 2016
 
