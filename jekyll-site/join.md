@@ -8,7 +8,9 @@ permalink: /join/
 
 #### Auditions
 
-Auditions for the Saltaires are held seasonally. All singers wishing to be members for the upcoming season must audition. Open auditions will be held in November for the 2017 season. A link to sign up for audition times will be posted in October.
+<a href="http://www.signupgenius.com/go/30E084FA5AA2CA2FD0-saltaires" class="btn btn-primary">Sign up for an audition</a>
+
+Auditions for the Saltaires are held seasonally. All singers wishing to be members for the upcoming season must audition. Open auditions will be held in November for the 2017 season.
 
 Saltaires auditions seek to address all three categories judged at BHS contests: Singing (tone quality/vocal skill), Music (musical expression), and Performance (visual expression).  Singers should expect to do the following at the audition:
 
@@ -17,6 +19,7 @@ Saltaires auditions seek to address all three categories judged at BHS contests:
 * Sight reading
 * Learn a [tag](https://www.barbershoptags.com/) with a quartet
 * Light choreography
+* Sign up for auditions [here](http://www.signupgenius.com/go/30E084FA5AA2CA2FD0-saltaires)
 
 #### Attendance
 
