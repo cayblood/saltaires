@@ -20,6 +20,8 @@ and the Men's Chorus under Dr. Mack Wilberg. John started
 singing barbershop as a high school student and has been involved with
 art form for over three decades.
 
+<br />
+
 <img alt="Assistant Director Kenny Wiser" class="portrait" src="/images/kenny_wiser.jpg" />
 
 ### Assistant Director Kenny Wiser
