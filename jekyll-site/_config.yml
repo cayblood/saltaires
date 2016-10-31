@@ -22,6 +22,10 @@ markdown: kramdown
 navigation:
 - text: About
   url: /about/
+  layout: about
+- text: Directors
+  layout: about
+  hidden: true
 - text: Members
   url: http://saltaires.groupanizer.com
 - text: Events

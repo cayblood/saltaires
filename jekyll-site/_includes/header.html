@@ -7,6 +7,9 @@
           <nav>
             <ul class="nav masthead-nav">
               {% for link in site.navigation %}
+                {% if link.hidden == true %}
+                  {% continue %}
+                {% endif %}
                 {% assign current = nil %}
                 {% if page.url == link.url or page.layout == link.layout %}
                   {% assign current = 'active' %}
