@@ -38,10 +38,18 @@ div.sidebar ul.nav li a:hover {
 }
 
 img.portrait {
-  max-width: 400px;
-  float: left;
+  max-width: 100%;
   padding-right: 15px;
   padding-bottom: 10px;
+}
+
+.about h3 {
+  margin-top: 0;
+  margin-left: 0;
+}
+
+.about p {
+  margin-left: 0; margin-right: 0;
 }
 
 /* Absolute Center Spinner */
