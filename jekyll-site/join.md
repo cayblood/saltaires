@@ -8,7 +8,9 @@ permalink: /join/
 
 #### Auditions
 
+<!--
 <a href="http://www.signupgenius.com/go/30E084FA5AA2CA2FD0-saltaires" class="btn btn-primary">Sign up for an audition</a>
+-->
 
 Auditions for the Saltaires are held seasonally. All singers wishing to be members for the upcoming season must audition. Open auditions will be held in November for the 2017 season.
 
