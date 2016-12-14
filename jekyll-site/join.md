@@ -21,7 +21,9 @@ Saltaires auditions seek to address all three categories judged at BHS contests:
 * Sight reading
 * Learn a [tag](https://www.barbershoptags.com/) with a quartet
 * Light choreography
+<!--
 * Sign up for auditions [here](http://www.signupgenius.com/go/30E084FA5AA2CA2FD0-saltaires)
+-->
 
 #### Attendance
 
