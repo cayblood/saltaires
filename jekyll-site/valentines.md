@@ -131,6 +131,7 @@ function collectFormInfo() {
 }
 
 $(document).ready(function () {
+  $('input:text:visible:first').focus();
   $('#orderButton').prop('disabled', true);
   $('#orderForm').on('keyup blur', function () {
     if ($('#orderForm').valid()) {
