@@ -10,8 +10,9 @@ permalink: /valentines/
   <div class="col-md-7">
     <p>
     Knock your Valentine off their feet with this unforgettable gift! A top-notch
-    barbershop quartet will sing the classic polecat love songs for your
-    valentine and deliver a gift of your choice.
+    barbershop quartet will arrive at your chosen time slot on Valentines Day,
+    sing the classic polecat love songs for your valentine and deliver a gift
+    of your choice.
     </p>
     <div>
     <form id="orderForm" action="" method="POST">
@@ -82,6 +83,10 @@ permalink: /valentines/
           <option value="3-6pm">3:00pm - 6:00pm</option>
         </select>
       </div>
+      <div class="form-group">
+        <label for="referrer">Person who referred you to us (if applicable)</label>
+        <input type="text" class="form-control" id="referrer" name="referrer" placeholder="John Doe">
+      </div>
       <button type="submit" class="btn btn-default btn-valentines" id="orderButton">Order</button>
     </form>
     </div>
@@ -121,6 +126,7 @@ function collectFormInfo() {
   info += "\nAmount paid: $" + amount / 100.0 + '.00';
   info += "\nMessage:\n" + $('#message').val();
   info += "\nTime window: " + $('#window').val();
+  info += "\nReferrer: " + $('#referrer').val();
   return info;
 }
 
@@ -173,7 +179,7 @@ $(document).ready(function () {
             source: token.id
           };
           function success(data) {
-            window.location.replace("/thanks");
+            window.location.replace("/valentines-confirm");
           }
           $('body').prepend('<div class="loading">Loading&#8230;</div>');
           $.ajax({
