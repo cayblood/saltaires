@@ -203,3 +203,16 @@ label {
 .form-group {
   clear: both;
 }
+
+.radio {
+  text-align: left;
+}
+
+.video {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.picture {
+  padding-right: 30px;
+}
