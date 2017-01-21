@@ -125,10 +125,7 @@ function getAmount() {
     case "forever": amount = 15000; break;
   }
   var extra = $('#extra').val();
-  console.log(extra);
-  console.log("amount before", amount);
   amount += extra * 500;
-  console.log("amount after", amount);
   return amount;
 }
 
@@ -162,7 +159,7 @@ $(document).ready(function () {
   });
 
   $('#orderForm').validate({
-    debug: true,
+    debug: false,
     rules: {
       name: {
         required: true
