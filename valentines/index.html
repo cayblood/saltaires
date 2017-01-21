@@ -199,14 +199,19 @@
     <div class="content">
       <div class="row">
         <div class="col-md-12">
-          <h3 id="singing-valentines">Singing Valentines</h3>
+          <div class="row">
+  <div class="col-md-12 embed-responsive embed-responsive-16by9">
+    <!-- copy and paste. Modify height and width if desired. -->
+    <iframe class="tscplayer_inline embeddedObject video" name="tsc_player" scrolling="no" frameborder="0" type="text/html" style="overflow:hidden;" src="https://www.screencast.com/users/ScottFugate/folders/Camtasia Studio/media/082dddee-2a02-4ec4-bf36-4dd1b84d5f42/embed" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+</div>
+
+<h3 id="singing-valentines">Singing Valentines</h3>
 
 <div class="row">
   <div class="col-md-7">
     <p>
-    Knock your Valentine off their feet with this unforgettable gift! A top-notch
-    barbershop quartet will arrive at your chosen time slot on Valentines Day,
-    sing the classic polecat love songs for your valentine and deliver a gift
+    Knock your Valentine off their feet with this unforgettable gift! A top-notch barbershop quartet will arrive at your chosen time slot on Valentines Day, sing classic love songs in beautiful four part harmony for your valentine, and deliver a gift
     of your choice.
     </p>
     <div>
@@ -239,28 +244,36 @@
       <div class="form-group">
         <div class="radio">
           <label class="first">
-            <input type="radio" name="optionsRadios" id="optionsRadios1" value="basic" checked="" />
-            Basic package: card, rose and a couple of songs ($50)
+            <input type="radio" name="optionsRadios" id="optionsRadios1" value="friendship" checked="" />
+            <strong>Friendship</strong>: One passionate love song, a personalized card, one beautiful
+            long-stemmed rose, and a picture with the quartet ($50)
           </label>
         </div>
         <div class="radio">
           <label>
-            <input type="radio" name="optionsRadios" id="optionsRadios2" value="chocolates" />
-            Basic package plus a box of chocolates ($100)
+            <input type="radio" name="optionsRadios" id="optionsRadios2" value="true-love-a" />
+            <strong>True Love</strong>: Two passionate love songs, a personalized card, a half-dozen beautiful
+            long-stemmed rose arrangement, and a pic/video with the quartet ($100)
           </label>
         </div>
         <div class="radio">
           <label>
-            <input type="radio" name="optionsRadios" id="optionsRadios3" value="roses" />
-            Basic package plus a dozen roses ($100)
+            <input type="radio" name="optionsRadios" id="optionsRadios3" value="true-love-b" />
+            <strong>True Love</strong>: Two passionate love songs, a personalized card, one beautiful
+            long-stemmed rose, hand-dipped chocolates, and a pic/video with the quartet ($100)
           </label>
         </div>
         <div class="radio">
           <label class="last">
-            <input type="radio" name="optionsRadios" id="optionsRadios4" value="theworks" checked="checked" />
-            Basic package plus a box of chocolates plus a dozen roses ($150)
+            <input type="radio" name="optionsRadios" id="optionsRadios4" value="forever" checked="checked" />
+            <strong>Forever</strong>: Two passionate love songs, a personalized card, a dozen beautiful long-stemmed rose arrangement,
+            and a pic/video with the quartet ($150)
           </label>
         </div>
+      </div>
+      <div class="form-group">
+        <label for="extra">Number of extra long-stemmed roses ($5 each)</label>
+        <input class="form-control" id="extra" name="extra" type="text" value="0" />
       </div>
       <div class="form-group">
         <label for="message">Message you would like on the card</label>
@@ -269,6 +282,7 @@
       <div class="form-group">
         <label for="window">Time window</label>
         <select class="form-control" id="window" name="window">
+          <option value="8-11am">8:00am - 11:00pm</option>
           <option value="9-12am">9:00am - 12:00pm</option>
           <option value="10am-1pm">10:00am - 1:00pm</option>
           <option value="11am-2pm">11:00am - 2:00pm</option>
@@ -287,7 +301,7 @@
     </div>
   </div>
   <div class="col-md-5">
-    <img alt="A singing Valentines quartet" class="portrait" src="/images/quartet.jpg" />
+    <img alt="A singing Valentines quartet" class="picture" src="/images/quartet.jpg" />
   </div>
 </div>
 
@@ -298,11 +312,16 @@ function getAmount() {
   var selectedOption = $("input[name='optionsRadios']:checked").val();
   var amount = 5000;
   switch (selectedOption) {
-    case "basic": amount = 5000; break;
-    case "chocolates": amount = 10000; break;
-    case "roses": amount = 10000; break;
-    case "theworks": amount = 15000; break;
+    case "friendship": amount = 5000; break;
+    case "true-love-a": amount = 10000; break;
+    case "true-love-b": amount = 10000; break;
+    case "forever": amount = 15000; break;
   }
+  var extra = $('#extra').val();
+  console.log(extra);
+  console.log("amount before", amount);
+  amount += extra * 500;
+  console.log("amount after", amount);
   return amount;
 }
 
@@ -357,6 +376,10 @@ $(document).ready(function () {
       zip: {
         required: true,
         zipcodeUS: true
+      },
+      extra: {
+        required: false,
+        number: true
       }
     },
     submitHandler: function (form) {
