@@ -57,23 +57,22 @@ permalink: /valentines/
         </div>
         <div class="radio">
           <label>
-            <input type="radio" name="optionsRadios" id="optionsRadios2" value="true-love-a">
+            <input type="radio" name="optionsRadios" id="optionsRadios2" value="truelove">
             <strong>True Love</strong>: Two passionate love songs, a personalized card, a half-dozen beautiful
             long-stemmed rose arrangement, and a pic/video with the quartet ($100)
           </label>
         </div>
         <div class="radio">
           <label>
-            <input type="radio" name="optionsRadios" id="optionsRadios3" value="true-love-b">
-            <strong>True Love</strong>: Two passionate love songs, a personalized card, one beautiful
+            <input type="radio" name="optionsRadios" id="optionsRadios3" value="sweetlove">
+            <strong>Sweet Love</strong>: Two passionate love songs, a personalized card, one beautiful
             long-stemmed rose, hand-dipped chocolates, and a pic/video with the quartet ($100)
           </label>
         </div>
         <div class="radio">
           <label class="last">
             <input type="radio" name="optionsRadios" id="optionsRadios4" value="forever" checked="checked">
-            <strong>Forever</strong>: Two passionate love songs, a personalized card, a dozen beautiful long-stemmed rose arrangement,
-            and a pic/video with the quartet ($150)
+            <strong>Forever</strong>: Two passionate love songs, a personalized card, hand-dipped chocolates, a dozen beautiful long-stemmed rose arrangement, and a pic/video with the quartet ($150)
           </label>
         </div>
       </div>
@@ -120,8 +119,8 @@ function getAmount() {
   var amount = 5000;
   switch (selectedOption) {
     case "friendship": amount = 5000; break;
-    case "true-love-a": amount = 10000; break;
-    case "true-love-b": amount = 10000; break;
+    case "truelove": amount = 10000; break;
+    case "sweetlove": amount = 10000; break;
     case "forever": amount = 15000; break;
   }
   var extra = $('#extra').val();
