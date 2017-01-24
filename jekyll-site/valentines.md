@@ -6,13 +6,10 @@ permalink: /valentines/
 
 <div class="row">
   <div class="col-md-12 embed-responsive embed-responsive-16by9">
-    <!-- copy and paste. Modify height and width if desired. -->
-    <iframe class="tscplayer_inline embeddedObject video" name="tsc_player" scrolling="no" frameborder="0" type="text/html" style="overflow:hidden;" src="https://www.screencast.com/users/ScottFugate/folders/Camtasia Studio/media/082dddee-2a02-4ec4-bf36-4dd1b84d5f42/embed" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  </div>
+  <iframe class="video" src="https://www.youtube.com/embed/Vv3fPxR9j-0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-### Singing Valentines
+<h3>Singing Valentines</h3>
 
 <div class="row">
   <div class="col-md-7">
