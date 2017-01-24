@@ -6,10 +6,11 @@ permalink: /valentines/
 
 <div class="row">
   <div class="col-md-12 embed-responsive embed-responsive-16by9">
-  <iframe class="video" src="https://www.youtube.com/embed/Vv3fPxR9j-0" frameborder="0" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube.com/embed/Vv3fPxR9j-0" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
-<h3>Singing Valentines</h3>
+### Singing Valentines
 
 <div class="row">
   <div class="col-md-7">
