@@ -137,6 +137,7 @@ function collectFormInfo() {
   var selectedOption = $("input[name='optionsRadios']:checked").val();
   info += "\nProduct selected: " + selectedOption;
   var amount = getAmount();
+  info += "\nExtra roses: " + $('#extra').val();
   info += "\nAmount paid: $" + amount / 100.0 + '.00';
   info += "\nMessage:\n" + $('#message').val();
   info += "\nTime window: " + $('#window').val();
