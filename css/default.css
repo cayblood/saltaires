@@ -25,6 +25,13 @@ img[alt="Utah Arts Council"] {
   float: left;
 }
 
+img[alt="Now Playing Utah"] {
+  margin-top: 25px;
+  margin-left: 25px;
+  max-height: 83px;
+  float: left;
+}
+
 div.sidebar ul.nav li {
   margin-left: 28px;
 }
