@@ -16,3 +16,5 @@ The Saltaires thank the voters of Salt Lake County for their support of the [Zoo
 <a href="http://slco.org/zap/">![SLC Zoo, Arts & Parks program](/images/zap.png)</a>
 
 <a href="https://heritage.utah.gov/arts-and-museums/about-the-utah-division-of-arts-museums">![Utah Arts Council](/images/utaharts-white.png)</a>
+
+<a href="http://www.nowplayingutah.com/">![Now Playing Utah](/images/now-playing-utah.png)</a>
