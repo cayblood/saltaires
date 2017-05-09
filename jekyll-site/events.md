@@ -4,6 +4,26 @@ title: Events
 permalink: /events/
 ---
 
+## July 2, 2017
+
+**Performance on Temple Square** 7:30pm, Assembly Hall
+
+## June 3, 2017
+
+**Spring Show: "The Road to Las Vegas"** Currently ranked 13th internationally,
+the Saltaires are headed to Las Vegas this July to compete in the 2017
+International Barbershop Convention! Come help us tune-up for the competition at
+our annual spring show. We have been practicing for countless hours trying to
+perfect our repertoire, and you will be blown away! There will be two showings,
+one at 3pm and another at 7:30pm, at the Vieve Gore Concert Hall,
+1840 South 1300 East, Salt Lake City, UT 84105.
+Free Parking in the west parking lot off of 1700 S. Purchase tickets
+[here](http://saltaires2017.brownpapertickets.com/).
+
+## May 6, 2017
+
+**Barbershop BBQ**: 4:30–7:30pm. Come enjoy great food and song with all the barbershop chapters in the area. Everyone is welcome. Sugar House Park, Sugar Beet pavilion, 1330 E. 2100 S, SLC, UT 84106.
+
 ## October 26, 2016
 
 **Saltaires Guest Night**: Come experience what's it's like to sing with the premiere barbershop chorus in the state of Utah! Whether you're a long time veteran of barbershop or have never even heard of it, join us for a night of spectacular harmony. Participants should come prepared to sing three songs. [Contact us](mailto:contact@saltaires.org) for access to the music. This is an event not to be missed! 6-10pm at the South Jordan Legacy Retirement Residence, 1617 W Temple Ln, South Jordan, Utah 84095.
