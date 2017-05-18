@@ -36,6 +36,9 @@ navigation:
   url: /join/
 - text: Donate
   url: /donate/
+- text: Tickets
+  url: /tickets/
+  hidden: true
 #- text: Valentines
 #  url: /valentines/
 # - text: Contact
