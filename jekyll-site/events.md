@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-## July 2, 2017
+## July 22, 2017
 
 **Performance on Temple Square** 7:30pm, Assembly Hall
 
