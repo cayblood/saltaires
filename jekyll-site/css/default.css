@@ -2,6 +2,9 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
   margin-left: 30px;
 }
+h2 { margin-bottom: 40px; margin-top: 40px; }
+h2.top { margin-top: 20px; }
+
 h4 { margin-top: 20px; }
 li {
   margin-left: 20px;
