@@ -6,9 +6,13 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-### October 8, 2017
+### October 25 & November 1
 
-**Rocky Mountain District Convention, Chorus Finals** 10:30am, Zermatt Resort & Spa, Midway, UT.
+**Saltaires New Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires2)
+
+### October 24 & November 7
+
+**Saltaires Returning Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires1)
 
 ### October 18, 2017
 
@@ -23,6 +27,10 @@ performing at the kickoff concert of the 2017 American Choral Directors Associat
 Conference.
 
 ## Past Events
+
+### October 8, 2017
+
+**Rocky Mountain District Convention, Chorus Finals** 10:30am, Zermatt Resort & Spa, Midway, UT.
 
 ### July 22, 2017
 
