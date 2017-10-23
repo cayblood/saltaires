@@ -14,12 +14,6 @@ permalink: /events/
 
 **Saltaires Returning Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires1)
 
-### October 18, 2017
-
-**Saltaires Guest Night** 7:00pm, Legacy Center in South Jordan. Come sing with
-the 11th-ranked barbershop chorus in the world! Register [here](https://goo.gl/forms/i0K6LbkQEGCXstTP2). 1617 Temple Ln,
-South Jordan, UT 84095
-
 ### November 17, 2017
 
 **ACDA Conference Performance** 7:00pm, Libby Gardner Hall. The Saltaires will be
@@ -27,6 +21,12 @@ performing at the kickoff concert of the 2017 American Choral Directors Associat
 Conference.
 
 ## Past Events
+
+### October 18, 2017
+
+**Saltaires Guest Night** 7:00pm, Legacy Center in South Jordan. Come sing with
+the 11th-ranked barbershop chorus in the world! Register [here](https://goo.gl/forms/i0K6LbkQEGCXstTP2). 1617 Temple Ln,
+South Jordan, UT 84095
 
 ### October 8, 2017
 
