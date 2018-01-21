@@ -70,3 +70,14 @@
     margin-left: auto;
   }
 }
+
+.home-news {
+  padding-bottom: 200px;
+  font-size: 200%;
+}
+.home-news a:link, .home-news a:visited, .home-news a:active {
+  text-decoration: underline;
+}
+.home-news a:hover {
+  text-decoration: none;
+}
