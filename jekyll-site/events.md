@@ -6,13 +6,7 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-### October 25 & November 1
-
-**Saltaires New Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires2)
-
-### October 24 & November 7
-
-**Saltaires Returning Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires1)
+## Past Events
 
 ### November 17, 2017
 
@@ -20,7 +14,13 @@ permalink: /events/
 performing at the kickoff concert of the 2017 American Choral Directors Association
 Conference.
 
-## Past Events
+### October 25 & November 1
+
+**Saltaires New Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires2)
+
+### October 24 & November 7
+
+**Saltaires Returning Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires1)
 
 ### October 18, 2017
 
