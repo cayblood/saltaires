@@ -84,11 +84,11 @@ permalink: /valentines/
       <div class="form-group">
         <label for="window">Time window</label>
         <select class="form-control" id="window" name="window">
-          <option value="8-11am">8:00am - 11:00pm</option>
+          <option value="8-11am">8:00am - 11:00am</option>
           <option value="9-12am">9:00am - 12:00pm</option>
           <option value="10am-1pm">10:00am - 1:00pm</option>
           <option value="11am-2pm">11:00am - 2:00pm</option>
-          <option value="12-3pm">12:00am - 3:00pm</option>
+          <option value="12-3pm">12:00pm - 3:00pm</option>
           <option value="1-4pm">1:00pm - 4:00pm</option>
           <option value="2-5pm">2:00pm - 5:00pm</option>
           <option value="3-6pm">3:00pm - 6:00pm</option>
