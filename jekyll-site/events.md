@@ -6,6 +6,14 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
+### February 14, 2018
+
+Singing Valentines. <a href="/valentines">Order</a> your Singing Valentine now!
+
+### February 24, 2018
+
+<a href="/youth-harmony-day">Youth Harmony Day</a>
+
 ## Past Events
 
 ### November 17, 2017
