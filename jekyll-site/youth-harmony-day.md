@@ -9,6 +9,7 @@ permalink: /youth-harmony-day/
 ### Youth Harmony Day 2018!
 
 Saturday, February 24th<br>
+Registration starts at 8:30am<br>
 9am - 5pm MST
 
 Corner Canyon High School<br>
