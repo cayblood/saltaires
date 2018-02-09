@@ -115,10 +115,10 @@ function getAmount() {
   var selectedOption = $("input[name='optionsRadios']:checked").val();
   var amount = 5000;
   switch (selectedOption) {
-    case "friendship": amount = 5000; break;
-    case "truelove": amount = 10000; break;
-    case "sweetlove": amount = 10000; break;
-    case "forever": amount = 15000; break;
+    case "basic": amount = 5000; break;
+    case "chocolates": amount = 10000; break;
+    case "roses": amount = 10000; break;
+    case "theworks": amount = 15000; break;
   }
   var extra = $('#extra').val();
   amount += extra * 500;
