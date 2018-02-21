@@ -8,7 +8,7 @@ permalink: /events/
 
 ### February 14, 2018
 
-Singing Valentines. <a href="/valentines">Order</a> your Singing Valentine now!
+Singing Valentines.
 
 ### February 24, 2018
 
