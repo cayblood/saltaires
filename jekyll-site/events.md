@@ -6,11 +6,19 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
+### March 30, 2018 6pm
+
+**BYU Women's Chorus Concert** Harris Fine Arts Center, Provo, UT 84602
+
+### June 9, 2018
+
+**Spring Show** Westminster College
+
+## Past Events
+
 ### February 24, 2018
 
 <a href="/youth-harmony-day">Youth Harmony Day</a>
-
-## Past Events
 
 ### February 14, 2018
 
