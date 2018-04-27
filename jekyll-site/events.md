@@ -6,21 +6,22 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
+### June 9, 2018 7pm
+
+**Spring Show** Join the Saltaires chorus and quartets as we present some of the
+most well known songs, and a few lesser known gems we’ve dug up and polished off,
+from decades of theatrical stage and silver screen productions. There will be two showings,
+one at 3pm and another at 7:30pm, at the Vieve Gore Concert Hall,
+1840 South 1300 East, Salt Lake City, UT 84105. Tickets can be purchased
+[here](https://saltaires2018.brownpapertickets.com/).
+
+## Past Events
+
 ### March 30, 2018 7:30pm
 
 **BYU Women's Chorus Concert** The Saltaires join the BYU Women’s Chorus for
 their final performance of the Winter 2018 semester in the De Jong Concert Hall
 at BYU’s Harris Fine Arts Center.
-
-### June 9, 2018 7pm
-
-**Spring Show** Join the Saltaires chorus and quartets as we present some of the
-most well known songs, and a few lesser known gems we’ve dug up and polished off,
-from decades of theatrical stage and silver screen productions. We will perform
-in the Westminster College auditorium. The matinee show will be at 2:30 PM.
-The evening show will be at 7:00 PM.
-
-## Past Events
 
 ### February 24, 2018
 
