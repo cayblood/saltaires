@@ -6,7 +6,7 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-### June 9, 2018 7pm
+### June 9, 2018 3pm and 7:30pm
 
 **Spring Show** Join the Saltaires chorus and quartets as we present some of the
 most well known songs, and a few lesser known gems we’ve dug up and polished off,
