@@ -6,16 +6,16 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-### June 9, 2018 3pm and 7:30pm
+### October 2018
 
-**Spring Show** Join the Saltaires chorus and quartets as we present some of the
-most well known songs, and a few lesser known gems we’ve dug up and polished off,
-from decades of theatrical stage and silver screen productions. There will be two showings,
-one at 3pm and another at 7:30pm, at the Vieve Gore Concert Hall,
-1840 South 1300 East, Salt Lake City, UT 84105. Tickets can be purchased
-[here](https://saltaires2018.brownpapertickets.com/).
+**Saltaires Guest Month** Throughout the month of October, guests are invited to our rehearsals on Wednesday nights from 7-9pm at the South Jordan Legacy Retirement Residence, 1617 W Temple Ln, South Jordan, Utah 84095. Sign up [here](https://goo.gl/C5ZVoU) to participate.
+
 
 ## Past Events
+
+### June 9, 2018 3pm and 7:30pm
+
+**Spring Show**
 
 ### March 30, 2018 7:30pm
 
