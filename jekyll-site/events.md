@@ -6,79 +6,20 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-### October 2018
+### January 2019
 
-**Saltaires Guest Month** Throughout the month of October, guests are invited to our rehearsals on Wednesday nights from 7-9pm at the South Jordan Legacy Retirement Residence, 1617 W Temple Ln, South Jordan, Utah 84095. Sign up [here](https://goo.gl/C5ZVoU) to participate.
+**First rehearsal of the 2019 season**:  Wednesday, January 9th at 7:00 PM at the South Jordan Legacy Retirement Residence, 1617 W Temple Ln, South Jordan, Utah 84095.
 
+### February 2019
 
-## Past Events
+**Thursday, February 14th – Singing Valentines**. [Order](/valentines) a singing valentine from a Saltaires quartet.”  So, right there you know we could resurrect our singing valentines order site for 2019 as soon as you’re ready.
 
-### June 9, 2018 3pm and 7:30pm
+### March 2019
 
-**Spring Show**
+**Saturday, March 2, 2019 – Youth Harmony Day**.  All middle and high school boys and girls are invited to participate!  Registration is free, as are sheet music, learning tracks, lunch, and a t-shirt.  An afternoon performance for parents and teachers caps off the day.  [Register now](/youth-harmony-day).
 
-### March 30, 2018 7:30pm
+### April/May 2019
 
-**BYU Women's Chorus Concert** The Saltaires join the BYU Women’s Chorus for
-their final performance of the Winter 2018 semester in the De Jong Concert Hall
-at BYU’s Harris Fine Arts Center.
+**Annual Spring Show – April/May timeframe**.  Date and location forthcoming.
 
-### February 24, 2018
-
-<a href="/youth-harmony-day">Youth Harmony Day</a>
-
-### February 14, 2018
-
-Singing Valentines.
-
-### November 17, 2017
-
-**ACDA Conference Performance** 7:00pm, Libby Gardner Hall. The Saltaires will be
-performing at the kickoff concert of the 2017 American Choral Directors Association
-Conference.
-
-### October 25 & November 1
-
-**Saltaires New Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires2)
-
-### October 24 & November 7
-
-**Saltaires Returning Member Auditions** Details [here](http://www.signupgenius.com/go/30e084fa5aa2ca2fd0-saltaires1)
-
-### October 18, 2017
-
-**Saltaires Guest Night** 7:00pm, Legacy Center in South Jordan. Come sing with
-the 11th-ranked barbershop chorus in the world! Register [here](https://goo.gl/forms/i0K6LbkQEGCXstTP2). 1617 Temple Ln,
-South Jordan, UT 84095
-
-### October 8, 2017
-
-**Rocky Mountain District Convention, Chorus Finals** 10:30am, Zermatt Resort & Spa, Midway, UT.
-
-### July 22, 2017
-
-**Performance on Temple Square** 7:30pm, Assembly Hall
-
-### June 3, 2017
-
-**Spring Show: "The Road to Las Vegas"** Currently ranked 13th internationally,
-the Saltaires are headed to Las Vegas this July to compete in the 2017
-International Barbershop Convention! Come help us tune-up for the competition at
-our annual spring show. We have been practicing for countless hours trying to
-perfect our repertoire, and you will be blown away! There will be two showings,
-one at 3pm and another at 7:30pm, at the Vieve Gore Concert Hall,
-1840 South 1300 East, Salt Lake City, UT 84105.
-Free Parking in the west parking lot off of 1700 S. Purchase tickets
-[here](http://saltaires2017.brownpapertickets.com/).
-
-### May 6, 2017
-
-**Barbershop BBQ**: 4:30–7:30pm. Come enjoy great food and song with all the barbershop chapters in the area. Everyone is welcome. Sugar House Park, Sugar Beet pavilion, 1330 E. 2100 S, SLC, UT 84106.
-
-### October 26, 2016
-
-**Saltaires Guest Night**: Come experience what's it's like to sing with the premiere barbershop chorus in the state of Utah! Whether you're a long time veteran of barbershop or have never even heard of it, join us for a night of spectacular harmony. Participants should come prepared to sing three songs. [Contact us](mailto:contact@saltaires.org) for access to the music. This is an event not to be missed! 6-10pm at the South Jordan Legacy Retirement Residence, 1617 W Temple Ln, South Jordan, Utah 84095.
-
-### September 24, 2016
-
-Come see the Saltaires this Saturday, where we will perform as a guests of the Mountain Jubilee Chorus at their fundraising show. They are preparing to go to Sweet Adeline's International Competition in Las Vegas! Tickets are $15. Show starts at 7:30pm. The address is the SLC First Baptist Church, 777 S 1300 E, Salt Lake City.
+Other events to be posted soon!

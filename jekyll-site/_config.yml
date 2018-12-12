@@ -30,8 +30,8 @@ navigation:
   url: http://saltaires.groupanizer.com
 - text: Events
   url: /events/
-- text: Calendar
-  url: /calendar/
+# - text: Calendar
+#   url: /calendar/
 - text: Join
   url: /join/
 - text: Donate
@@ -39,7 +39,7 @@ navigation:
 - text: Tickets
   url: /tickets/
   hidden: true
-#- text: Valentines
-#  url: /valentines/
+- text: Valentines
+  url: /valentines/
 # - text: Contact
 #   url: /contact/
