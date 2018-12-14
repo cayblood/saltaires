@@ -4,7 +4,7 @@ title: Youth Harmony Day 2019
 permalink: /youth-harmony-day/
 ---
 
-![Youth Harmony Day 2019](/images/youth-harmony-logo.jpg)
+![Youth Harmony Day 2019](/images/youth-harmony-logo.png)
 
 ### Youth Harmony Day 2019!
 
