@@ -23,19 +23,22 @@ navigation:
 - text: About
   url: /about/
   layout: about
-- text: Directors
+- text: Director
+  url: /directors/
   layout: about
   hidden: true
 - text: Members
-  url: http://saltaires.groupanizer.com
+  url: /members/
+- text: Music
+  url: /music/
 - text: Events
   url: /events/
 # - text: Calendar
 #   url: /calendar/
 - text: Join
   url: /join/
-- text: Donate
-  url: /donate/
+- text: Support
+  url: /support/
 - text: Tickets
   url: /tickets/
   hidden: true
