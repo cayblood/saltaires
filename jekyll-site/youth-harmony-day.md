@@ -29,5 +29,5 @@ Sign up below and spread the word to your friends and schoolmates who you think 
 
 <p class="lead">
   <a href="
-https://docs.google.com/forms/d/1oMQZl3ntU4u4JS6jLoEOp-MEZEMWg1FGd-DFnQasvHc/viewform" class="btn btn-lg btn-default">Sign up</a>
+https://docs.google.com/forms/d/1oMQZl3ntU4u4JS6jLoEOp-MEZEMWg1FGd-DFnQasvHc/viewform" class="btn btn-lg btn-default" target="_blank">Sign up</a>
 </p>
