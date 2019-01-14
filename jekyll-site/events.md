@@ -6,10 +6,6 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-### January 2019
-
-**First rehearsal of the 2019 season**:  Wednesday, January 9th at 7:00 PM at the South Jordan Legacy Retirement Residence, 1617 W Temple Ln, South Jordan, Utah 84095.
-
 ### February 2019
 
 **Thursday, February 14th – Singing Valentines**. [Order](/valentines) a singing valentine from a Saltaires quartet.  So, right there you know we could resurrect our singing valentines order site for 2019 as soon as you’re ready.
@@ -24,4 +20,4 @@ permalink: /events/
 
 ### May 2019
 
-**May 18, 2019 - Annual Show**: The Saltaires Present "Songs of the 60s." Location forthcoming.
+**Saturday, May 18, 2019 - Annual Show**: The Saltaires Present "Songs of the 60s." Location forthcoming.
