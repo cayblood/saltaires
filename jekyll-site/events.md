@@ -12,11 +12,11 @@ permalink: /events/
 
 ### February 2019
 
-**Thursday, February 14th – Singing Valentines**. [Order](/valentines) a singing valentine from a Saltaires quartet.”  So, right there you know we could resurrect our singing valentines order site for 2019 as soon as you’re ready.
+**Thursday, February 14th – Singing Valentines**. [Order](/valentines) a singing valentine from a Saltaires quartet.  So, right there you know we could resurrect our singing valentines order site for 2019 as soon as you’re ready.
 
 ### March 2019
 
-**Saturday, March 2, 2019 – Youth Harmony Day**.  All middle and high school boys and girls are invited to participate!  Registration is free, as are sheet music, learning tracks, lunch, and a t-shirt.  An afternoon performance for parents and teachers caps off the day.  [Register now](/youth-harmony-day).
+**Saturday, March 2, 2019 – Youth Harmony Day**.  All middle and high school boys and girls are invited to participate!  Registration is free, as are sheet music, learning tracks, lunch, and a t-shirt.  An afternoon performance for parents and teachers caps off the day. [Register now](/youth-harmony-day).
 
 ### April/May 2019
 

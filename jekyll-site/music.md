@@ -4,6 +4,10 @@ title: Music
 permalink: /music/
 ---
 
+### Current music
+
+ All Saltaires sheet music and learning tracks can be accessed through [a private web application](https://saltaires.groupanizer.com).  Login is required.  Contact the Saltaires president if you need access.
+
 ### Listen to the Saltaires
 
 <div class="row">
@@ -29,7 +33,3 @@ permalink: /music/
     <iframe class="video" src="https://www.youtube.com/embed/x9TMH5voDbo" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
-
-### Current music
-
- All Saltaires sheet music and learning tracks can be accessed through [a private web application](https://saltaires.groupanizer.com).  Login is required.  Contact the Saltaires president if you need access.
