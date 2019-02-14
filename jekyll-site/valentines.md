@@ -4,9 +4,10 @@ title: Valentines
 permalink: /valentines/
 ---
 
-<html>
-  <head>
-  	<meta http-equiv="refresh" content="0; url=http://www.saltaires.org/">
-  	<link rel="canonical" href="http://www.saltaires.org/" />
-  </head>
-</html>
+<div class="row">
+  <div class="col-md-12 embed-responsive embed-responsive-16by9">
+    <iframe class="video" src="https://www.youtube.com/embed/Vv3fPxR9j-0" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+### To order a singing valentine, email us <a href="mailto: contact@saltaires.org">contact@saltaires.org</a>

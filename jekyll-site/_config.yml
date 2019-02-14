@@ -42,7 +42,7 @@ navigation:
 - text: Tickets
   url: /tickets/
   hidden: true
-# - text: Valentines
-#   url: /valentines/
+- text: Valentines
+  url: /valentines/
 # - text: Contact
 #   url: /contact/
