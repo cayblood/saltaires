@@ -10,4 +10,4 @@ permalink: /valentines/
   </div>
 </div>
 
-### To order a singing valentine, email us <a href="mailto: contact@saltaires.org">contact@saltaires.org</a>
+### To order a singing valentine, email us at <a href="mailto: contact@saltaires.org">contact@saltaires.org</a>
