@@ -6,11 +6,12 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-### June 2019
+### October
 
-**Saturday, June 22, 7:30 PM – Assembly Hall on Temple Square**
+**Wednesday, October 2, 7-9:30 PM - Guest Night**
+Sing with one of the best Barbershop ensembles in the world! Free
+sheet music and learning tracks to three songs which will be rehearsed.
+Light refreshments will be served. [Contact us](mailto:contact@saltaires.org)
+for access to the music.
 
-### July 2019
-
-**Friday, July 5, about 8 PM – International Barbershop Competition**:
-Contest sessions starting at 10 AM. Day passes available. Ticket purchase details forthcoming.
+1617 W Temple Ln, South Jordan, UT 84095
