@@ -8,7 +8,7 @@ permalink: /events/
 
 ### October
 
-**Wednesday, October 2, 7-9:30 PM - Guest Night**
+**Wednesdays, October 2, 9, 16, and 23 from 7-9:30 PM - Guest Month**
 Sing with one of the best Barbershop ensembles in the world! Free
 sheet music and learning tracks to three songs which will be rehearsed.
 Light refreshments will be served. [Contact us](mailto:contact@saltaires.org)
