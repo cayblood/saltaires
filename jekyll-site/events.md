@@ -6,12 +6,14 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-### October
+**January 8 - Season kickoff**
 
-**Wednesdays, October 2, 9, 16, and 23 from 7-9:30 PM - Guest Month**
-Sing with one of the best Barbershop ensembles in the world! Free
-sheet music and learning tracks to three songs which will be rehearsed.
-Light refreshments will be served. [Contact us](mailto:contact@saltaires.org)
-for access to the music.
+**February 14 - Singing Valentines**
 
-1617 W Temple Ln, South Jordan, UT 84095
+**February 29 - Youth Harmony Day**
+
+Free registration, lunch, music, and t-shirt for all youth grades 7 to 12. Join us for this all-day barbershop workshop led by amazing barbershop clinicians. Click [here](https://docs.google.com/forms/d/1lPN9EWoGVAWw9OddlueV3-v8w2cMfJaynzKAWk8UkzM/edit) to register. Spread the word!
+
+**May 11, 7pm - Saltaires show**
+
+Orem Scera Theater. Buy tickets [here](https://scera.org/events/saltaires-barbershop-chorus/).
