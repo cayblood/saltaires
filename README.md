@@ -8,8 +8,8 @@ of the Saltaires Barbershop Chorus of Salt Lake City.
 This assumes that [rvm](http://rvm.io/) and [nvm](https://github.com/nvm-sh/nvm)
 are installed in your environment. To set up your environment:
 ```
-rvm install 2.4.0@saltaires --create
-rvm use 2.4.0@saltaires
+rvm install 2.4.0
+rvm use 2.4.0@saltaires --create
 nvm install lts/carbon
 nvm use lts/carbon
 npm install -g bower
@@ -33,9 +33,9 @@ to uncomment promotional callout sections. To change events, edit `events.md`.
 
 Please note that the Valentines ordering functionality relies on a small
 lambda-based AWS API endpoint for Stripe server-side validation that is running
-in Carl Youngblood's AWS account. The cost of this endpoint is negligible and
-Carl is willing to host it indefinitely. It also depend's on our Stripe account,
-to which Mark Andromidas has access.
+in an AWS account to which Carl Youngblood has access. The cost of this endpoint
+is negligible and Carl is willing to pay for it indefinitely. It also depends on
+our Stripe account, to which Mark Andromidas has access.
 
 ## Deploying
 ```
