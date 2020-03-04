@@ -8,8 +8,8 @@ of the Saltaires Barbershop Chorus of Salt Lake City.
 This assumes that [rvm](http://rvm.io/) and [nvm](https://github.com/nvm-sh/nvm)
 are installed in your environment. To set up your environment:
 ```
-rvm install 2.4.0@saltaires --create
-rvm use 2.4.0@saltaires
+rvm install 2.4.0
+rvm use 2.4.0@saltaires --create
 nvm install lts/carbon
 nvm use lts/carbon
 npm install -g bower
