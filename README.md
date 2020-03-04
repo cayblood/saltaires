@@ -34,7 +34,7 @@ to uncomment promotional callout sections. To change events, edit `events.md`.
 Please note that the Valentines ordering functionality relies on a small
 lambda-based AWS API endpoint for Stripe server-side validation that is running
 in Carl Youngblood's AWS account. The cost of this endpoint is negligible and
-Carl is willing to host it indefinitely. It also depend's on our Stripe account,
+Carl is willing to host it indefinitely. It also depends on our Stripe account,
 to which Mark Andromidas has access.
 
 ## Deploying
