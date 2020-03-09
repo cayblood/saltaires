@@ -21,7 +21,6 @@ else
   printf "ERROR: An RVM installation was not found.\n"
 fi
 
-export NVM_DIR="$HOME/.nvm"
 [[ -s /usr/local/opt/nvm/nvm.sh ]] && . /usr/local/opt/nvm/nvm.sh
 [[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh
 
