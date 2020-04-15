@@ -10,21 +10,18 @@ permalink: /leadership/
   <div class="col-md-6">
     <p>We express gratitude to the following chorus members for their service and leadership:</p>
     <ul>
-      <li>President: Bruce Gundersen</li>
-      <li>Immediate Past President: Jerry Lynch</li>
-      <li>Membership Vice President: Jay Gundersen</li>
-      <li>Music Vice President: Mark Andromidas</li>
+      <li>President: Nate Baldwin</li>
+      <li>Immediate Past President: Bruce Gundersen</li>
+      <li>Membership Vice President: Nathan Brown</li>
+      <li>Music Vice President: Chase Butler</li>
       <li>Publications/Promotions VP: Taylor Fugate</li>
-      <li>Audience Development VP: Nate Baldwin</li>
-      <li>Performance Development VP: Jimmy Schofield</li>
       <li>Funding Development: Ian Robbins</li>
-      <li>Secretary: Howard Smith</li>
-      <li>Treasurer: JD Blade</li>
+      <li>Secretary and Treasurer: JD Blades</li>
       <li>Tenor section leader: Jimmy Schofield</li>
-      <li>Lead section leader: Adam Haggart</li>
-      <li>Baritone section leader: Evan Moss</li>
+      <li>Lead section leader: Mark Andromidas</li>
+      <li>Baritone section leader: Blair Dowd</li>
       <li>Bass section leader: Brian Dowd</li>
-      <li>Technology VP: Carl Youngblood</li>
+      <li>Website: Niel Westover</li>
     </ul>
   </div>
 </div>

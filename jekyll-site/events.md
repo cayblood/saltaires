@@ -6,6 +6,6 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-**May 11, 7pm - Saltaires show**
+**Oct 9-10, 7pm - Saltaires Fall show**
 
-Orem Scera Theater. Buy tickets [here](https://scera.org/events/saltaires-barbershop-chorus/).
+Waterford School Theater. Check back for more information about buying tickets.
