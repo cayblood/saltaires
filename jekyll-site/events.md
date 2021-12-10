@@ -6,14 +6,10 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-**Auditions for 2022**
-<br>
-Audition slots are currently available for the 2022 season. Email <a href="mailto: contact@saltaires.org">contact@saltaires.org</a> to schedule yours today.
-
 **February 26, 2022 - Youth Harmony Day**
 <br>
-A free event dedicated to helping middle and high school students experience barbershop harmony under the direction of internationally renowned coaches.
-Email <a href="mailto: contact@saltaires.org">contact@saltaires.org</a> for more information.
+A free singing workshop for middle and high school students to experience and perform barbershop harmony.
+Click <a href="https://forms.gle/GkwZoMdQP5vvPup56">here</a> to register.
 
 **July 3-10, 2022 -  BHS International Convention in Charlotte, North Carolina**
 <br>

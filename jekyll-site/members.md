@@ -6,7 +6,7 @@ permalink: /members/
 
 ### Costs
 
-BHS Membership (society, district, and chapter dues): $177 annually. $10 enrollment fee for new members. Special rates available for youth (25 and under) and seniors (70+ AND 10 years society membership)
+BHS Membership (society, district, and chapter dues): Around $200 annually. Special rates available for youth (25 and under) and seniors (70+ AND 10 years society membership)
 
 International & District Contests: Make your own arrangements for registration, travel, hotel, and food. Varies by location and event.
 
@@ -19,7 +19,7 @@ The cost of the uniform is a personal expense. More details on the uniform below
 
 ### Attendance
 
-Rehearsals are held from 7:30 - 10:00 pm on Wednesday nights at the Legacy Retirement Residence of South Jordan (1617 Temple Ln, South Jordan, UT 84095)
+Rehearsals are held from 7:00 - 9:30 pm on Wednesday nights.
 
 Members are expected to attend rehearsals on a regular basis for the entire season. Attendance is taken at all rehearsals and performances to ensure members uphold this standard. Members who wish to perform with the Saltaires agree to the entire season with attendance levels as follows:
 
