@@ -19,7 +19,8 @@ The cost of the uniform is a personal expense. More details on the uniform below
 
 ### Attendance
 
-Rehearsals are held from 7:00 - 9:30 pm on Wednesday nights.
+Rehearsals are held from 7:00 - 9:30 pm on Wednesday nights at the Salt Lake Choral Artists building located at:
+<br><br><b>700 N 200 W, Salt Lake City, UT 84103.</b>
 
 Members are expected to attend rehearsals on a regular basis for the entire season. Attendance is taken at all rehearsals and performances to ensure members uphold this standard. Members who wish to perform with the Saltaires agree to the entire season with attendance levels as follows:
 
