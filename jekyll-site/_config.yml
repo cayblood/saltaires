@@ -23,10 +23,10 @@ navigation:
 - text: About
   url: /about/
   layout: about
-- text: Director
-  url: /directors/
+- text: Program
+  url: /program/
   layout: about
-  hidden: true
+  hidden: true    
 - text: Members
   url: /members/
 - text: Music
