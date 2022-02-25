@@ -27,8 +27,12 @@ navigation:
   url: /program/
   layout: about
   hidden: true    
+- text: Director
+  url: /directors/
+  layout: about
+  hidden: true
 - text: Members
-  url: /members/
+  url: /members/  
 - text: Music
   url: /music/
 - text: Events
