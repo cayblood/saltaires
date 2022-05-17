@@ -20,8 +20,8 @@ permalink: /leadership/
 	  <li>Board member at large: Lon Szymanski</li>
       <li>Tenor section leader: Nathan Brown</li>
       <li>Lead section leader: Adam Haggart</li>
-      <li>Baritone section leader: Niel Westover</li>
-      <li>Bass section leader: Grant Goulding</li>
+      <li>Baritone section leader: Andrew Gordon</li>
+      <li>Bass section leader: Jerry Duggar</li>
       <li>Website: Niel Westover</li>
     </ul>
   </div>
