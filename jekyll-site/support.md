@@ -31,6 +31,14 @@ The Saltaires puts on an annual show for hundreds of residents of Salt Lake Coun
     </form>
   </div>
 </div>
+<a href="http://slco.org/zap/">![SLC Zoo, Arts & Parks program](/images/zap.png)</a>
+
+
+<a href="http://www.nowplayingutah.com/">![Now Playing Utah](/images/now-playing-utah.png)</a>
+
+
+<a href="https://artsandmuseums.utah.gov/">![Utah Division of Arts and Museums](/images/Arts-and-Museums-logo.png)</a>
+
 <script src="https://checkout.stripe.com/checkout.js"></script>
 <script>
 function validateAmount(amount) {

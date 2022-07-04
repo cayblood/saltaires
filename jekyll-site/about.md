@@ -15,14 +15,14 @@ Keep informed regarding future auditions and other events by signing up for our 
   
 
 ### Sponsorship
-The Saltaires thank the voters of Salt Lake County for their support of the [Zoo, Arts & Parks program](http://slco.org/zap/). ZAP grants help to offset our operating costs. We also receive support from the
-[Utah Arts Council](https://heritage.utah.gov/arts-and-museums/about-the-utah-division-of-arts-museums).
+The Saltaires thank the voters of Salt Lake County for their support of the [Zoo, Arts & Parks program](http://slco.org/zap/). ZAP grants help to offset our operating costs. We also receive support from
+[Now Playing Utah](http://www.nowplayingutah.com) and the [Utah Division of Arts and Museums](https://artsandmuseums.utah.gov/).
 
 
 <a href="http://slco.org/zap/">![SLC Zoo, Arts & Parks program](/images/zap.png)</a>
 
-<!--
-<a href="https://heritage.utah.gov/arts-and-museums/about-the-utah-division-of-arts-museums">![Utah Arts Council](/images/utaharts-white.png)</a>
--->
 
 <a href="http://www.nowplayingutah.com/">![Now Playing Utah](/images/now-playing-utah.png)</a>
+
+
+<a href="https://artsandmuseums.utah.gov/">![Utah Division of Arts and Museums](/images/Arts-and-Museums-logo.png)</a>

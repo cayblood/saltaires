@@ -41,7 +41,7 @@ navigation:
 #   url: /calendar/
 - text: Join
   url: /join/
-- text: Support
+- text: Donate
   url: /support/
 - text: Tickets
   url: /tickets/
