@@ -6,15 +6,20 @@ permalink: /events/
 
 <h2 class="top">Upcoming Events</h2>
 
-**August 27, 2022 - Annual Show**
-<br>
-Stay tuned for more information about our annual show coming in August.
-
-**Auditions for 2022-2023**
+<!---
+**Auditions for 2023**
 <br>
 Audition slots are currently available for the upcoming season. Email <a href="mailto: contact@saltaires.org">contact@saltaires.org</a> to schedule yours today.
+--->
 
-**October 7-9, 2022 -  Rocky Mountain District Convention**
+**March 4, 2023 - Youth Harmony Day**
 <br>
-The Saltaires will be competing at the annual convention and contest of the Rocky Mountain District in Denver.
+A free singing workshop for junior high and high school students. Sign up <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfAvvPwQYo-CtJpoy_gQtFB1y-XKEYlhXJgyCKjvbomgZOFmQ/viewform">here</a>.
 
+**July 2-9, 2023 - Internation Convention - Louisville Kentucky**
+<br>
+The Saltaires have accepted an invitation to compete at the Barbershop Harmony Society's International Chorus Competition.
+
+**September 21-23, 2023 - Rocky Mountain District Fall Convention**
+<br>
+The Saltaires will be competing at the annual convention and contest of the Rocky Mountain District in Ogden, Utah.
