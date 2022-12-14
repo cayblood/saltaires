@@ -14,7 +14,7 @@ permalink: /leadership/
       <li>VP Membership: Dave Musser</li>
       <li>VP Music and Performance: Chase Butler</li>
       <li>VP Marketing: Taylor Fugate</li>
-	  <li>VP Communit Outreach - Jimmy Schofield</li>
+	  <li>VP Community Outreach: Jimmy Schofield</li>
       <li>Secretary: Brian Bean</li>
       <li>Treasurer: JD Blades</li>
 	  <li>Board member at large: Wes Brown</li>
