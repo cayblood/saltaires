@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Members
-permalink: /members/
+title: Membership
+permalink: /membership/
 ---
 
 ### Costs
@@ -10,23 +10,14 @@ BHS Membership (society, district, and chapter dues): Around $200 annually. Spec
 
 International & District Contests: Make your own arrangements for registration, travel, hotel, and food. Varies by location and event.
 
-The cost of the uniform is a personal expense. More details on the uniform below.
-
-### Uniform
-
-* Black Tuxedo - Provide your own (coat should be single breasted, notch lapel, 1-2 buttons)
-* White Dress Shirt - Provide your own (check for specifics)
+The cost of the uniform is a personal expense. Uniform details will be communicated to chorus members each season.
 
 ### Attendance
 
-Rehearsals are held from 7:00 - 9:30 pm on Wednesday nights at the Salt Lake Choral Artists building located at:
-<br><br><b>700 N 200 W, Salt Lake City, UT 84103.</b>
+Rehearsals are held from 7:00 - 9:30 pm on Wednesday nights at the church building located at:
+<br><br><b>2465 South 800 East, Salt Lake City, UT 84106</b>
 
-Members are expected to attend rehearsals on a regular basis for the entire season. Attendance is taken at all rehearsals and performances to ensure members uphold this standard. Members who wish to perform with the Saltaires agree to the entire season with attendance levels as follows:
-
-* Weekly Rehearsals - 75%
-* Special Rehearsals (retreats, coaching sessions, tech rehearsals, etc.) - 100%
-* Performances (spring show, district & international contests) - 100%
+Members are expected to attend 75% of rehearsals, and all shows and contests.
 
 ### Calendar
 

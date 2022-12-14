@@ -31,8 +31,8 @@ navigation:
   url: /directors/
   layout: about
   hidden: true
-- text: Members
-  url: /members/  
+- text: Membership
+  url: /membership/  
 - text: Music
   url: /music/
 - text: Events
