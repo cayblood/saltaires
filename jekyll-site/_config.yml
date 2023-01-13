@@ -44,9 +44,10 @@ navigation:
 - text: Donate
   url: /support/
 - text: Tickets
-  url: /tickets/
+  url: /tickets/    
   hidden: true
-#- text: Valentines
-#  url: /valentines/
+- text: Valentines
+  url: /valentines/
+  hidden: false
 # - text: Contact
 #   url: /contact/

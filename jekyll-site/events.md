@@ -16,7 +16,7 @@ Audition slots are currently available for the upcoming season. Email <a href="m
 <br>
 A free singing workshop for junior high and high school students. Sign up <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfAvvPwQYo-CtJpoy_gQtFB1y-XKEYlhXJgyCKjvbomgZOFmQ/viewform">here</a>.
 
-**July 2-9, 2023 - Internation Convention - Louisville Kentucky**
+**July 2-9, 2023 - International Convention - Louisville, Kentucky**
 <br>
 The Saltaires have accepted an invitation to compete at the Barbershop Harmony Society's International Chorus Competition.
 
