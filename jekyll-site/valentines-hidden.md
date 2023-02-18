@@ -101,11 +101,15 @@ permalink: /valentines/
       <button type="submit" class="btn btn-default btn-valentines" id="orderButton">Order</button>
     </form>
     </div>
-  </div>
-  <div class="col-md-5">
+  </div> 
+  <br>
+  <br>
+  <br>
+  <div class="col-md-5">	
     <img alt="A singing Valentines quartet" class="picture" src="/images/quartet.jpg" />
-  </div>
+ </div>
 </div>
+ 
 
 
 

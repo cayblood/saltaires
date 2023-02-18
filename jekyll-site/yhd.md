@@ -4,15 +4,38 @@ title: Youth Harmony Day
 permalink: /yhd/
 ---
 
-  <p class="lead">
-  <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfAvvPwQYo-CtJpoy_gQtFB1y-XKEYlhXJgyCKjvbomgZOFmQ/viewform"/>
-    <img alt="Youth harmony day" class="portrait" src="/images/YHD2023.png"/>
-	
-	<br>
-	<br>
-	<div style="text-align: center">
-		<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfAvvPwQYo-CtJpoy_gQtFB1y-XKEYlhXJgyCKjvbomgZOFmQ/viewform" class="btn btn-lg btn-default">Sign up</a>
-	</div>
-</p>
+### Youth Harmony Day
+
+ Every year, the Saltaires host Youth Harmony Day, a free singing workshop for middle and high school students to experience and perform barbershop harmony.
+ 
+<div class="row">
+  <div class="col-md-12 embed-responsive embed-responsive-16by9">
+    <iframe class="video" src="https://www.youtube.com/embed/KQ7qCsYr8wY" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12 embed-responsive embed-responsive-16by9">
+    <iframe class="video" src="https://www.youtube.com/embed/nGm_AFIctxc" frameborder="0" allowfullscreen></iframe>	
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12 embed-responsive embed-responsive-16by9">
+    <iframe class="video" src="https://www.youtube.com/embed/jLJx9E_CYS4" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12 embed-responsive embed-responsive-16by9">
+    <iframe class="video" src="https://www.youtube.com/embed/fLFxpn69a4c" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12 embed-responsive embed-responsive-16by9">
+    <iframe class="video" src="https://www.youtube.com/embed/fVRwD7pdlKY" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 

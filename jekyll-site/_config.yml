@@ -41,13 +41,16 @@ navigation:
 #   url: /calendar/
 - text: Join
   url: /join/
+- text: Youth Harmony Day
+  url: /yhd/
 - text: Donate
   url: /support/
 - text: Tickets
   url: /tickets/    
   hidden: true
-- text: Valentines
-  url: /valentines/
-  hidden: false
+#- text: Valentines
+#  url: /valentines/
+#  hidden: false
 # - text: Contact
 #   url: /contact/
+
